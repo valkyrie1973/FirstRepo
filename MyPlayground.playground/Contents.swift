@@ -4,7 +4,7 @@ import UIKit
 
 var str = "Hello, playground"
 
-1 + 1
+1 + 2
 10 - 100
 100 * 100
 1000 / 3
